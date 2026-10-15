@@ -36,7 +36,6 @@
 .hero-actions { display:flex; flex-wrap:wrap; gap:12px; margin:34px 0 46px; }
 .promise-row { display:flex; flex-wrap:wrap; gap:12px 26px; font-size:.8rem; font-weight:700; color:var(--deep-blue); text-transform:uppercase; letter-spacing:.07em; }
 .promise-row span::before { content:''; display:inline-block; width:7px; height:7px; margin-right:8px; border-radius:50%; background:var(--red); }
-@media (prefers-color-scheme: dark) { .promise-row { color:#fff; } }
 .hero-mark { position:relative; display:grid; place-items:center; aspect-ratio:1; }
 .hero-mark::before { content:''; position:absolute; inset:7%; border-radius:50%; background:var(--surface); box-shadow:var(--shadow); }
 .hero-mark img { position:relative; z-index:2; width:66%; }

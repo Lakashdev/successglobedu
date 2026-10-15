@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap');
 :root {
-  --red: #D7141F; --red-dark: #ae0d16; --deep-blue: #0B3A82; --bright-blue: #0F56B8; --soft: #F3F6FB; --ink: #14213D; --muted: #53607A; --border: #DCE3EF; --surface: #fff; --navy-surface: #092f69;
+  --red: #D7141F; --red-dark: #ae0d16; --deep-blue: #0B3A82; --bright-blue: #0F56B8; --soft: #F3F6FB; --ink: #0B3A82; --muted: #53607A; --border: #DCE3EF; --surface: #fff; --navy-surface: #092f69;
   --serif: 'Fraunces', Georgia, serif; --sans: 'Figtree', system-ui, sans-serif; --shadow: 0 22px 60px rgba(11, 58, 130, .12); --radius: 18px; --container: 1180px;
 }
-@media (prefers-color-scheme: dark) { :root { --soft: #0d1728; --ink: #f5f7fb; --muted: #b8c3d8; --border: #263955; --surface: #121f34; --navy-surface: #071f48; --shadow: 0 24px 60px rgba(0,0,0,.28); } }
