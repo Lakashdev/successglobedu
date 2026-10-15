@@ -1,0 +1,2 @@
+import { Link } from 'react-router-dom'; import { Icon } from './Icons'
+export function PageHero({ eyebrow, title, description }) { return <section className="page-hero"><div className="container page-hero-inner"><span className="eyebrow light">{eyebrow}</span><h1>{title}</h1><p>{description}</p><Link className="text-link light" to="/contact">Start a conversation <Icon name="arrow"/></Link></div></section> }

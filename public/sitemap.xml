@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace the .example host with the confirmed production domain before launch. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://successglobaleduhouse.example/</loc></url>
+  <url><loc>https://successglobaleduhouse.example/about</loc></url>
+  <url><loc>https://successglobaleduhouse.example/services</loc></url>
+  <url><loc>https://successglobaleduhouse.example/destinations</loc></url>
+  <url><loc>https://successglobaleduhouse.example/contact</loc></url>
+</urlset>
